@@ -1,3 +1,4 @@
+//server.js
 #!/usr/bin/env node
 
 process.stdout.write('\x07');
